@@ -4,6 +4,7 @@ import os
 cwd_path = os.getcwd()
 
 
+
 def read_data(file_name, field):
     """
     Reads json file and returns sequential data.
